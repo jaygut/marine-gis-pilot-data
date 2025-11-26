@@ -1,0 +1,20 @@
+#Ignore windsurf AI rules
+.windsurfrules
+.windsurf/
+
+# Python / environment artifacts
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+
+# Raw GIS inputs (do not commit original source data)
+data/raw/
+
+# OS / editor junk
+.DS_Store
+*.swp
+
+# Claude Code local config
+.claude/

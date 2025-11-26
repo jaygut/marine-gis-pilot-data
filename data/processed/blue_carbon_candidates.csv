@@ -1,0 +1,13 @@
+nom_zh,area_ha,perimeter_km,perimeter_area_ratio,compactness,num_parts,flagship_status,priority_score,centroid_lat,centroid_lon
+Patía,70960.6,2524.0,35.57,0.0014,147,flagship,1.0,2.4639,-78.3849
+Tapaje - Dagua - Directos,67901.5,2748.9,40.48,0.0011,137,emerging,1.0,3.1992,-77.5388
+Bajo Magdalena,45839.1,2399.9,52.36,0.001,65,flagship,0.945,10.6551,-74.7908
+Mira,24846.0,1194.2,48.06,0.0022,87,flagship,0.649,1.6903,-78.764
+Sinú,8748.4,344.5,39.38,0.0093,10,flagship,0.422,9.3887,-75.8699
+Pacífico - Directos,17284.6,766.2,44.33,0.0037,52,emerging,0.392,5.5453,-77.3863
+San Juán,13102.0,705.8,53.87,0.0033,54,emerging,0.333,4.1828,-77.3914
+Atrato - Darién,5895.6,304.7,51.68,0.008,12,emerging,0.231,8.1115,-76.9027
+Baudó - Directos Pacífico,11719.4,632.1,53.94,0.0037,34,exploratory,0.164,4.7111,-77.3132
+Caribe - Litoral,7992.3,409.8,51.27,0.006,31,exploratory,0.111,9.4661,-75.8387
+Caribe - Guajira,2003.9,161.0,80.36,0.0097,20,exploratory,0.026,11.9877,-72.0219
+Islas Caribe,136.6,12.4,90.94,0.1112,1,exploratory,0.0,12.561,-81.7059
