@@ -271,4 +271,4 @@ jupyter notebook notebooks/01_national_mangrove_backbone.ipynb
 
 ## Contact
 
-For questions about this repository or the blue carbon assessment workflow, contact the project maintainers.
+For questions about this repository or the blue carbon assessment workflow, contact Jay at jg@graphoflife.com
